@@ -14,7 +14,7 @@ function AboutCard() {
             I am currently a freelancing software developer.
             <br />
             I am currently in my final year of study at Dedan Kimathi Univesity
-            pursing B.s Computer Science.
+            pursing B.sc Computer Science.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
